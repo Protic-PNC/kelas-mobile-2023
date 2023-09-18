@@ -1,4 +1,4 @@
-# :earth_asia: Kelas Mobile
+# :mobile_phone_off: Kelas Mobile
 
 Selamat datang di Kelas Mobile - PROTIC,
 disini materi yang akan diajarkan yaitu diawali dengan materi Web dasar, baru kemudian selanjutnya akan difokuskan ke materi web tingkat lanjut (Frontend atau Backend).
