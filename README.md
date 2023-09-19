@@ -12,10 +12,10 @@ Silahkan kunjungi [panduan berikut](CONTRIBUTION.md) untuk melakukan kontribusi
 Berikut merupakan materi awal yang akan dipelajari di Kelas Mobile:
 
 Kotlin Basic
-📚 [Kotlin Basics]
-📚 [Control Flow]
-📚 [Functions]
-📚 [Collections]
+:books: [Kotlin Basics]
+:books: [Control Flow]
+:books: [Functions]
+:books: [Collections]
 
 Kotlin Advanced
 📚 [OOPs Concept]
