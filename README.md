@@ -11,20 +11,22 @@ Silahkan kunjungi [panduan berikut](CONTRIBUTION.md) untuk melakukan kontribusi
 
 Berikut merupakan materi awal yang akan dipelajari di Kelas Mobile:
 
-1. **Kotlin Basic**
+Kotlin Basic
+📚 [Kotlin Basics]
+📚 [Control Flow]
+📚 [Functions]
+📚 [Collections]
 
-    - :books: [Kotlin Basics]
-    - :books: [Control Flow]
-    - :books: [Array & String]
-    - :books: [Functions]
-    - :books: [Collections]
+Kotlin Advanced
+📚 [OOPs Concept]
+📚 [Exception Handling]
+📚 [Coroutines]
 
-2. **Kotlin Advanced**
-    - :books: [OOPs Concept]
-    - :books: [Exception Handling]
-    - :books: [Null Safety]
-    - :books: [Regex & Ranges]
-    - :books: [Java Interoperability]
-    - :books: [Miscellaneous]
-  
-3.  **Android**
+Android
+📚 [Installation]
+📚 [Activity]
+📚 [Fragment & Navigation Component]
+📚 [Live Data & View Model]
+📚 [Local Storage]
+📚 [Restful API]
+📚 [Tugas Akhir]
